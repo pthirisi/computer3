@@ -7,5 +7,10 @@ BALL
 =======
 kite
 
+=======
+Thirisi
+Ashi
+======
+
 bag
 flower
