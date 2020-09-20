@@ -3,6 +3,7 @@ rose
 
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 RAT
 BALL
 =======
@@ -13,6 +14,8 @@ Thirisi
 Ashi
 ======
 =======
+=======
+>>>>>>> phys
 VASK
 APPLE
 ======
@@ -29,6 +32,9 @@ Ratha
 
 =======
 Family
+=======
+<<<<<<< HEAD
+>>>>>>> phys
 =======
 >>>>>>> phys
 
