@@ -23,7 +23,8 @@ Ashi
 VASK
 APPLE
 ======
-
+hi
+how are you?
 ======
 ring
 bat
@@ -49,8 +50,16 @@ clean
 bag
 flower
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =====
 I am a MASTER
 =======
 >>>>>>> csc
+=======
+=======
+
+=====
+I am a MASTER
+>>>>>>> master
+>>>>>>> phys
