@@ -7,6 +7,10 @@ rose
 RAT
 BALL
 =======
+skirt
+blouse
+======
+
 kite
 
 =======
