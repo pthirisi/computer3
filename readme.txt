@@ -26,3 +26,9 @@ clean
 
 bag
 flower
+<<<<<<< HEAD
+=======
+
+=====
+I am a MASTER
+>>>>>>> master
